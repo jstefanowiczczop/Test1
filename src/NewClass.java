@@ -21,4 +21,8 @@ public class NewClass {
     public void setY(int y) {
         this.y = y;
     }
+    public int addNumbers (){
+        return x+y;
+    }
+    
 }

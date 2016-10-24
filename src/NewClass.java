@@ -24,5 +24,11 @@ public class NewClass {
     public int addNumbers (){
         return x+y;
     }
+
+    public int Multiply (){
+        return x*2;
+        
+
+    }
     
 }

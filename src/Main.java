@@ -1,13 +1,13 @@
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        System.out.println("Test!");
-        //test
-        //trst
-	    
-	    //added on a github
-        //secon d update
-	    //added on github 2
+
+        int x = 2;
+        if (x == 2) {
+
+            // write your code here
+            System.out.println("Test!");
+
+        }
     }
 }
